@@ -7,12 +7,13 @@ There are no people anywhere in it. The story is carried by a cherry tree and a 
 
 ## Download
 
-| Version | Size | Where |
+| Version | Size | File |
 |---|---|---|
-| **1080p** (1920×1080, 30 fps) | ~165 MB | [Releases → sakura-mv-v1](https://github.com/Fengli-ruomeng/MyFileStroage/releases/tag/sakura-mv-v1) (too big for a normal repo file; GitHub's limit is 100 MB) |
-| **720p** (1280×720, 30 fps) | ~40 MB | [`sakura-no-me-nimo-namida_MV_720p.mp4`](sakura-no-me-nimo-namida_MV_720p.mp4) in this folder, and also in the release |
+| **1080p** (1920×1080, 30 fps) | ~91 MB | [`sakura-no-me-nimo-namida_MV_1080p.mp4`](sakura-no-me-nimo-namida_MV_1080p.mp4) |
+| **720p** (1280×720, 30 fps) | ~40 MB | [`sakura-no-me-nimo-namida_MV_720p.mp4`](sakura-no-me-nimo-namida_MV_720p.mp4) |
 
-Release downloads are plain HTTPS files, so a download manager can resume them if the connection drops.
+To download one, open the file and click **Download raw file** (the ⤓ button). The raw link is a plain HTTPS file, so a download manager can resume it if the connection drops.
+The 1080p file was compressed to fit under GitHub's 100 MB per-file limit.
 
 ## The story
 
